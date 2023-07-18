@@ -1,18 +1,18 @@
 #include <stdio.h>
 /**
- * main -This prints the size of various types on the computer
+ * main -This prints lowercase alphabets
  *
  * Return: 0
 */
 int main(void)
 {
-	char a;
-	a = 'a';
-	while 
-		(a <= 'z')
+	char y;
+	y = 'a';
+	while
+		(y <= 'z')
 		{
-			putchar (a);
-			a++;
+			putchar (y);
+			y++;
 		}
 	putchar('\n');
 	return (0);
