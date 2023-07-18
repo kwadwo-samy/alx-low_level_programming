@@ -4,7 +4,7 @@
  *
  * Return: 0
 */
-int main()
+int main(void)
 {
 	char a;
 
@@ -24,6 +24,6 @@ int main()
 			putchar(a);
 			a++;
 		}
-		putchar('\n');
-        return (0);
+	putchar('\n');
+	return (0);
 }
