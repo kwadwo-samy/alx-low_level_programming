@@ -2,7 +2,7 @@
 
 
 	/**
-	 * main - check the code.
+	 * main -Prints 10 times the alphabet
 	 *
 	 * Return: Always 0.
 	 */
